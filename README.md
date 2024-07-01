@@ -1,2 +1,2 @@
 # jellyJuiceApi
-Unknown Instance Jelly Juice
+Unknown Instance Jjuice
